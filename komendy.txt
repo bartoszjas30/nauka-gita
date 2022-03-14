@@ -1,0 +1,5 @@
+npm test
+npm run eslint
+npm run build
+npm run docs
+npm start
