@@ -1,5 +1,3 @@
-npm test
-npm run eslint
-npm run build
-npm run docs
-npm start
+No to jeszcze raz:
+
+npm exec html-validate index.html
